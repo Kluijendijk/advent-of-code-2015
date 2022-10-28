@@ -1,0 +1,6 @@
+Name; Cost; Instant Damage; Instant Healing; DoT Damage; DoT duration; Armor Gain; Armor Duration; MRoT; MRoT duration
+Magic Missile; 53; 4; 0; 0; 0; 0; 0;   0; 0
+Drain costs;   73; 2; 2; 0; 0; 0; 0;   0; 0
+Shield;       113; 0; 0; 0; 0; 7; 6;   0; 0
+Poison;       173; 0; 0; 3; 6; 0; 0;   0; 0
+Recharge;     229; 0; 0; 0; 0; 0; 0; 101; 5
